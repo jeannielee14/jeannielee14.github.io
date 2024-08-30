@@ -1,9 +1,9 @@
 ---
 layout: page
-permalink: /Publications/
-title: Publications
+permalink: /Papers/
+title: Papers
 description:
-nav: true
+nav: false
 nav_order: 2
 sortby: true        # true: Sort by types | false: Sort by years
 years: [2024, 2023, 2022, 2021, 2020, 2019]

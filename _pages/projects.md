@@ -2,10 +2,10 @@
 layout: page
 title: Research
 permalink: /Research/
-description: Coming Soon...
+description: A growing collection of my papers and projects.
 nav: true
 nav_order: 1
-display_categories: [Stomatal Conductance]
+display_categories: [work, fun]
 horizontal: false
 ---
 
